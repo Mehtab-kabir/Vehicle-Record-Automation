@@ -64,6 +64,7 @@ pip install -r requirements.txt
 For a given video frame:
 - **Detected License Plate**: ABC1234
 - **Extracted Timestamp**: 10:15:23
+![Screenshot 2024-12-23 120859](https://github.com/user-attachments/assets/0870ad52-5f4e-45d8-9029-0e7f5b0c99ee)
 
 The annotated frame includes:
 - Bounding boxes around the license plates.
